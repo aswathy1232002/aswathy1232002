@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswathy M</h1>
-<h3 align="center">Pursuing DevOps Engineering</h3>
+<h3 align="center">passionately curious </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswathy1232002&label=Profile%20views&color=0e75b6&style=flat" alt="aswathy1232002" /> </p>
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **aswathy182002@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
