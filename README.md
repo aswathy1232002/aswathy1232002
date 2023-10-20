@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswathy1232002&label=Profile%20views&color=0e75b6&style=flat" alt="aswathy1232002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswathy1232002" alt="aswathy1232002" /></a> </p>
+## 🏆 GitHub Trophies
+
+ <div style="display: flex; justify-content: center;">
+   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aswathy1232002&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" /></p>
+    <p align="center>"<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" /></p>
+ </div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
